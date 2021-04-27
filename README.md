@@ -1,6 +1,10 @@
 *NOTE:* Supported images are available in the [official image library](https://hub.docker.com/_/neo4j/) on Docker Hub.
 Please use those for production use.
 
+If you want to see the exact Dockerfile and entrypoint source code that is included in any Neo4j image, you can view them here:
+
+https://github.com/neo4j/docker-neo4j-publish
+
 # Using the Neo4j Docker Image
 
 Documentation for the Neo4j image can be found [here](https://neo4j.com/docs/operations-manual/current/deployment/single-instance/docker/).
